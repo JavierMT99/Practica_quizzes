@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica_quizzes</string>
+    <string name="enviar">Send</string>
+    <string name="pregunta1">Who won the golden ball in 2022?</string>
+    <string name="respuesta1pregunta1" translatable="false">Karim Benzema</string>
+    <string name="pregunta1respuesta2" translatable="false">Robert Lewangolski</string>
+    <string name="pregunta2">Which team won the World Cup in 2010?</string>
+    <string name="pregunta2respuesta1">Spain</string>
+    <string name="pregunta2respuesta2">Netherlands</string>
+    <string name="pregunta3">Which team won the Champions League in 2019?</string>
+    <string name="pregunta3respuesta1" translatable="false">Real Madrid</string>
+    <string name="pregunta3respuesta2" translatable="false">Liverpool F.C</string>
+    <string name="sinRespuesta">Select an answer</string>
+    <string name="respuestaCorrecta">True</string>
+    <string name="respuestaFallada">False</string>
+    <string name="irSiguientePregunta">Next quizz</string>
+    <string name="volverEmpezar">Start again</string>
+</resources>

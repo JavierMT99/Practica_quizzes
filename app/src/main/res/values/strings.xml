@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practica_quizzes</string>
+    <string name="enviar">Enviar</string>
+    <string name="pregunta1">¿Quien ganó el balon de oro en 2022?</string>
+    <string name="respuesta1pregunta1" translatable="false">Karim Benzema</string>
+    <string name="pregunta1respuesta2" translatable="false">Robert Lewangolski</string>
+    <string name="pregunta2">¿Qué selección ganó el mundial en 2010?</string>
+    <string name="pregunta2respuesta1">España</string>
+    <string name="pregunta2respuesta2">Holanda</string>
+    <string name="pregunta3">¿Qué equipo ganó la champions en 2019?</string>
+    <string name="pregunta3respuesta1" translatable="false">Real Madrid</string>
+    <string name="pregunta3respuesta2" translatable="false">Liverpool F.C</string>
+    <string name="sinRespuesta">Selecciona una respuesta crack</string>
+    <string name="respuestaCorrecta">Respuesta correcta</string>
+    <string name="respuestaFallada">Cagaste</string>
+    <string name="irSiguientePregunta">Siguiente pregunta</string>
+    <string name="volverEmpezar">Volver a empezar</string>
+</resources>
